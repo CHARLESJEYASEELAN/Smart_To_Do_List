@@ -18,7 +18,8 @@ Markdown Output: Displays task lists in a formatted table.
 |----|--------------------------|------------|---------|
 | 1  | Meeting tomorrow at 3 PM | 2025-07-05 | Pending |
 
-Blog Post: 
+Blog Post: [Read Here](https://medium.com/@itzcharles03/lets-build-a-smart-to-do-list-agent-with-python-sqlite-and-langchain-21ad5a037929)
+
 
 Learn more about the implementation in my Medium blog post.
 
