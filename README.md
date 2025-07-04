@@ -2,6 +2,8 @@
 
 A smart To-Do List Agent built with Python, SQLite, and LangChain, powered by the Mistral model via Ollama. This project enables task management through natural language inputs, such as "Add a meeting tomorrow at 3 PM" or "Reschedule my meeting to next week." The agent stores tasks in an SQLite database, supports operations like adding, querying, deleting, and rescheduling tasks, and retains conversation context for seamless interaction.
 
+![Alt text](Flow.gif)
+
 ## Features
 
 - Natural Language Processing: Parse commands like "Add a task" or "Show pending tasks" using LangChain and Mistral.
